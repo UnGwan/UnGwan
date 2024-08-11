@@ -3,13 +3,9 @@
 즐거울 개발을 꿈꾸는 Lucky Gwan 입니다~
 
 
-## 🌟 About Me
-- 🎓 Studying iOS development
-- 🌱 Learning Swift, SwiftUI, and UIKit
-- 🎨 Passionate about creating intuitive user interfaces
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Swift, Java, Python
+- **Languages:** Swift, Java, Python, c++
 - **Frameworks:** SwiftUI, UIKit,
 - **Tools:** Xcode, Git
 - **Other:** FireBase
