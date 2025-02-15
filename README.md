@@ -26,16 +26,16 @@
 
 ### [ANBD](https://github.com/APP-iOS4/ANBD)
 : iOS
-처음으로 iOS 협업 프로젝트 및 많은 것을 배우고 부족함을 느끼게 해준 iOS 앱개발 프로젝트 
+처음으로 iOS 협업 프로젝트 및 많은 것을 배우고 부족함을 느끼게 해준 iOS 앱개발 프로젝트
 
-## ing ~
-### [MySmartHome](https://github.com/UnGwan/MySmartHome)
-## 📈 GitHub Stats
-![UnGwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnGwan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnGwan&layout=compact&theme=radical)
+### [Smart Circulator Control System](https://github.com/UnGwan/MySmartHome)
+Smart Circulator Control System은 환경 및 사용자 기반 자동화를 목표로 설계된 스마트 서큘레이터 제어 시스템
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=UnGwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 외부 활동
+- 네이버부스트캠프 웹·모바일 8기 챌린지 (2023.07 ~ 2023.08)
+- 멋쟁이사자처럼 앱스쿨 iOS 4기 (**2023.11 ~ 2024.05**)
+- [새싹 1기] 현대자동차그룹 모빌리티 SW 개발자 데뷔 과정 (**2024 12 ~ 2025 06**)
 
 ## 📫 Get in Touch
 - Velog: [![Velog Badge](https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jkj5666)
