@@ -12,17 +12,18 @@
 
 ## 🔭 나의 개발 여정
 
+### [Connected Vehicle Controller System](https://github.com/Kyalivia/Connected-Car-Controller)
+> **ESP32, STM32, SwiftUI, BLE, UART**  
+> iOS 앱을 통해 차량 내부 시스템(에어컨, MP3, 네비게이션 등)을 제어하는 **커넥티드 자동차 제어 시스템** 개발 중.  
+> BLE 통신과 UART 프로토콜을 중계하여 iOS ↔ ESP32 ↔ STM32 간 실시간 명령 및 데이터 송수신 구조 구현.
+
+---
+
 ### [Smart Circulator Control System](https://github.com/UnGwan/MySmartHome)
 > **Raspberry Pi 4, Django, SwiftUI, MQTT**  
 > 환경 데이터(온습도, 체온)를 기반으로 **서큘레이터**를 원격 제어 및 자동화하는 스마트 홈 시스템 구축.  
 > **MQTT 프로토콜**을 적용해 REST API 대비 30% 이상의 데이터 전송 효율 향상.
 
----
-
-### [Connected Vehicle Controller System](https://github.com/Kyalivia/Connected-Car-Controller)
-> **ESP32, STM32, SwiftUI, BLE, UART**  
-> iOS 앱을 통해 차량 내부 시스템(에어컨, MP3, 네비게이션 등)을 제어하는 **커넥티드 자동차 제어 시스템** 개발 중.  
-> BLE 통신과 UART 프로토콜을 중계하여 iOS ↔ ESP32 ↔ STM32 간 실시간 명령 및 데이터 송수신 구조 구현.
 
 ---
 
