@@ -6,9 +6,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++, Python, Swift, Java
-- **Frameworks & Libraries:** SwiftUI, UIKit, FreeRTOS (학습중)
 - **Tools:** Xcode, Git, STM32CubeIDE, Arduino IDE
-- **Other:** MQTT, BLE, TCP/IP 통신 기본 이해
 
 ---
 
